@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-weight-roboto-300{
+    font-weight: 300;
+}
+
+.card-w-kt{
+    width: 350px;
+}
+
+
+.text-black-kt{
+    color: #212529;
+}
+
+.text-gris-kt{
+    color: #707070;
+}
+
+.img-logo-w-kt{
+    width: 150px;
+}
+
+.img-logo-w-kt2{
+    width: 100px;
+}
+
+.form-h-241-kt{
+    height: 250px;
+}
+
+.btn-w-200-kt{
+    width: 200px;
+}
+
